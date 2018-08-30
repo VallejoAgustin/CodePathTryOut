@@ -4,7 +4,7 @@
 App displayes three buttons and a text field. The buttons allow the user to: change the text color of the label, change the color of the background view, and change the text string of the label. The text field allows the user to input a string which the change text string button then uses to change the text label.
 
 ### App Walk-though
-<img src="https://imgur.com/a/uBFPzNs" width=200><br>
+<img src=https://imgur.com/a/uBFPzNs width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
